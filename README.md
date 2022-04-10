@@ -17,7 +17,7 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 2. Documentación con R Markdown
 3. Estructuras de datos
 4. Introducción a la representación gráfica
-5. Data frames
+5. Data frames 
 6. Estadística descriptiva con datos cualitativos
 7. Estadística descriptiva con datos ordinales
 8. Estadística descriptiva con datos cuantitativos
@@ -25,4 +25,4 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
 
-**Esta es una prueba**.
+**Esta es una prueba**
